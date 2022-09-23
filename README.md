@@ -9,8 +9,8 @@ https://yadi.sk/i/3mvMw_y4h3khvg
 Скриншот:
 https://yadi.sk/i/75Umi5hrvZ97fg
 
-В моем варианте 
-server1 = c4.6.1, 10.129.0.16
+В моем варианте: \
+server1 = c4.6.1, 10.129.0.16 \
 server2 = c4.6.4, 10.129.0.16
 
 Использовал filebeat вместо rsyslog.
